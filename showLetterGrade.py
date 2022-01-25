@@ -19,6 +19,6 @@ def showLetterGrade(percentage):
 showLetterGrade(95)
 showLetterGrade(72)
 showLetterGrade(51)
-
-
-
+cmdlet:
+2. Add the new file to stage and commit it.
+2
